@@ -15,3 +15,9 @@ function cloak() {
 }
 
 var setInterval = setInterval(cloak , 1000);
+
+
+function toggleClass() {
+  const body = $('body');
+  body.toggleClass('light');
+}
