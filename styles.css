@@ -16,8 +16,7 @@ body {
 }
 
 body.light {
-  background-color:
-    hsl(231, 100%, 86%);
+  background-color: hsl(178, 31%, 82%);
   color: hsl(0, 0%, 77%);
   align-items: center;
   display: flex;
@@ -84,7 +83,7 @@ body.light {
 
 body.light .cloak .time div span:nth-child(2) {
   background-color:
-    hsl(176, 99%, 36%);
+    #127fd6;
   color:
     hsl(0, 0%, 100%);
   align-items:
@@ -106,16 +105,16 @@ body.light .cloak .time div span:nth-child(2) {
 }
 
 body.light .cloak .time div:last-child span {
-  background: hsl(207, 90%, 54%);
+  background: #ff006a;
 }
 
 body.light .cloak .time div:last-child span:nth-child(2) {
-  background: hsl(207, 84%, 45%);
+  background: #ec0062
 }
 
 body.light .cloak .time div span {
   background-color:
-    hsl(176, 100%, 45%);
+    #2196f3;
   color: hsl(0, 0%, 100%);
   align-items: center;
   box-shadow: hsla(0, 0%, 0%, 0.2), 0px 0px 0px 1px;
